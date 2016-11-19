@@ -117,14 +117,14 @@ footer h4{margin-bottom: 1em;}
 /*Large Screen or 4K display*/
 @media (min-width: 1200px) {
 	.sk-design-tag{font-size: 22px;}
-	.left-side h1{font-size:4em;}
+	.left-side h1{font-size:3em;}
 	.left-side p{font-size:1.5em;}
 
 	.features h1{margin-bottom:15px; font-size: 3em;}
 	.features h4{font-size: 2em;}
 	.features p{font-size: 1.5em;}
 
-	.description h1{font-size: 2.5em;}
+	.description h1{font-size: 2em;}
 	.description br{display: none;}
 	.description p{font-size: 1.5em; width: 100%;}
 
